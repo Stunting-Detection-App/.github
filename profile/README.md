@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/capstone-logo.png" alt="Capstone Logo" />
+  <img src="../images/capstone-logo.png" alt="Capstone Logo" />
 </p>
 <h1 align="center">Nourish - Bangkit Capstone Project 2024</h1>
 <h3 align="center"><strong>C242-PS163</strong></p>
